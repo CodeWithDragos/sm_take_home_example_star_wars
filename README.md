@@ -24,8 +24,8 @@ Build a simple app to fetch and search movies. The app should have:
 ### [Click here to see the Live Demo]([LINK_TO_THE_DEPLOYED_APP])
 
 ## Screenshots
-![alt text](assets/app_screen.png)
-
+![alt text](assets/home_page.png)
+![alt text](assets/movie_page.png)
 ## Libraries / Tools Used
 
 - React.js
