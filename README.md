@@ -16,7 +16,7 @@ Build a simple app to fetch and search movies. The app should have:
 - the API was integrated and the results are stored in component state
 
 
-### [Click here to see the Live Demo]([LINK_TO_THE_DEPLOYED_APP])
+### [Click here to see the Live Demo](https://elegant-ride-26d54a.netlify.app/#/)
 
 ## Screenshots
 ![alt text](assets/home_page.png)
