@@ -9,11 +9,6 @@ Build a simple app to fetch and search movies. The app should have:
 
 ### [Click here to see the Video Review]([LINK_TO_LOOM_VIDEO])
 
-## Assumptions
-
-- no authentication is needed at the moments
-- no need for a global state management solution 
-
 ## Proposed Solution
 
 - a simple UI with fake data was built first
@@ -26,6 +21,12 @@ Build a simple app to fetch and search movies. The app should have:
 ## Screenshots
 ![alt text](assets/home_page.png)
 ![alt text](assets/movie_page.png)
+
+## Assumptions
+
+- no authentication is needed at the moments
+- no need for a global state management solution 
+
 ## Libraries / Tools Used
 
 - React.js
