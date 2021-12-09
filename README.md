@@ -1,4 +1,4 @@
-## PROJECT_NAME
+## Movie Catalog App
 
 Build a simple app to fetch and search movies. The app should have:
 - a search input where users can type the name of a movie
